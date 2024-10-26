@@ -7,9 +7,7 @@ version: 2
 
 # Set the OS, Python version and other tools you might need
 build:
-  os: ubuntu-22.04
-  tools:
-    minecraft-bedrock: "1.21.40"
+  os: any
     # You can also specify other tool versions:
     # nodejs: "19"
     # rust: "1.64"
